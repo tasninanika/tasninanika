@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Jarin Tasnin. I'm currently studying B.Sc in CSE.
+Hello, I'm Jarin Tasnin. I'm currently studying B.Sc in CSE. I’m passionate about creating websites, coding, and constantly exploring new things. Whether it’s building dynamic web applications or learning the latest technologies, I love solving problems through code and expanding my skill set. Every new project is an opportunity to grow and challenge myself.
 
 
 ## 🌐 Socials:
