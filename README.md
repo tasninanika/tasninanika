@@ -1,6 +1,13 @@
 # 💫 About Me:
-Hello, this is Jarin Tasnin. I'm currently pursuing a B.Sc in CSE. I’m passionate about creating websites, coding, and constantly exploring new things. Whether it’s building dynamic web applications or learning the latest technologies, I love solving problems through code and expanding my skill set. Every new project is an opportunity to grow and challenge myself.
-I’m also an active participant on Codeforces, currently holding the Pupil rank — always striving to sharpen my problem-solving abilities and climb higher in the competitive programming world!
+  🎓 Currently pursuing B.Sc. in Computer Science and Engineering (CSE)
+  
+  👩‍💻 Junior MERN Stack Developer | Aspiring Data Scientist
+  
+  🌐 Passionate about building dynamic and responsive web applications
+  
+  🏅 Pupil at Codeforces, focused on improving problem-solving skills
+  
+  🤝 Open to collaboration and continuous learning opportunities
 
 
 ## 🌐 Socials:
