@@ -5,7 +5,7 @@
   
   * 🌐 Passionate about building dynamic and responsive web applications
   
-  * 🏅 Pupil at Codeforces, focused on improving problem-solving skills
+  * 🏅 Specialist at Codeforces, focused on improving problem-solving skills
   
   * 🤝 Open to collaboration and continuous learning opportunities
 
