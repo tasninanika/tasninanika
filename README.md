@@ -13,7 +13,7 @@
 ## 🌐 Socials
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jarin-tasnin-anika/">
+  <a href="https://www.linkedin.com/in/jarin-tasnin-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="border:none;" />
   </a>
   <a href="https://facebook.com/7278491.8289a">
@@ -21,9 +21,6 @@
   </a>
   <a href="https://instagram.com/__miniaturist">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" style="border:none;" />
-  </a>
-  <a href="https://pinterest.com/tasnin00">
-    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" alt="Pinterest" style="border:none;" />
   </a>
 </p>
 
@@ -47,8 +44,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tasninanika&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=tasninanika&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
