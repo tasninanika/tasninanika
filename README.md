@@ -1,7 +1,7 @@
 ## 💫 About Me:
   * 🎓 Currently pursuing B.Sc. in Computer Science and Engineering (CSE)
   
-  * 👩‍💻 Junior MERN Stack Developer | Aspiring Data Scientist
+  * 👩‍💻 Junior MERN Stack Developer | Data Scientist | Exploring Blockchain
   
   * 🌐 Passionate about building dynamic and responsive web applications
   
