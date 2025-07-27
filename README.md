@@ -10,7 +10,14 @@
   * 🤝 Open to collaboration and continuous learning opportunities
 
 ## 🧠 Competitive Profiles:
-<p> <a href="https://codeforces.com/profile/jarin_tasnin_anika" target="_blank"> <img src="https://img.shields.io/badge/Codeforces-%230F0F0F.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /> </a> <a href="https://www.codechef.com/users/jarin_tasnin" target="_blank"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /> </a> <a href="https://leetcode.com/u/jarin_tasnin_anika/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /> </a> </p>
+<p align="center"> <a href="https://codeforces.com/profile/jarin_tasnin_anika" target="_blank"> <img src="https://img.shields.io/badge/Codeforces-%230F0F0F.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /> </a> <a href="https://www.codechef.com/users/jarin_tasnin" target="_blank"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /> </a> <a href="https://leetcode.com/u/jarin_tasnin_anika/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /> </a> </p>
+
+## 🌟 Portfolio
+<p align="center">
+  <a href="https://jarin-tasnin.vercel.app/">
+    <img src="https://img.shields.io/badge/Jarin's%20Portfolio-%23dfdccf?style=for-the-badge&logo=starship&logoColor=black" alt="Jarin's Portfolio">
+  </a>
+</p>
 
 ## 🌐 Socials
 
