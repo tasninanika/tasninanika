@@ -56,7 +56,7 @@
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br />MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=oracle" width="48" height="48" alt="Oracle" /><br />Oracle
+      <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" width="48" height="48" alt="Oracle" /><br />Oracle
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br />Firebase
@@ -70,7 +70,7 @@
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br />CSS
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br />JavaScript
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" /><br />JavaScript
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br />Tailwind
@@ -85,7 +85,7 @@
       <img src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Dark.svg" width="48" height="48" alt="Router" /><br />Router
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jwt" width="48" height="48" alt="JWT" /><br />JWT
+      <img src="https://i.ibb.co.com/QJds110/icon14.png" width="48" height="48" alt="JWT" /><br />JWT
     </td>
   </tr>
   <tr>
@@ -127,19 +127,19 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tasninanika&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="30%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasninanika&theme=dark&hide_border=false" width="33%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tasninanika&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="36%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasninanika&theme=dark&hide_border=false" width="39.5%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasninanika&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="28%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasninanika&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="32%" />
 </p>
 
 
 ### 🔝 Top Contributed Repo
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=tasninanika&limit=5&theme=dark&combine_all_yearly_contributions=true" width="30%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=tasninanika&limit=5&theme=dark&combine_all_yearly_contributions=true" width="37%" />
 </p>
 
 
